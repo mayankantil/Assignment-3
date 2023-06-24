@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">quizApp</string>
+    <string name="question_1">Question 1: Is the sky blue?</string>
+    <string name="question_2">Question 2: Is the earth flat?</string>
+    <string name="question_3">Question 3: Is water wet?</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="result_text">Your result: %1$d correct answers out of %2$d</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="save_button_text">Save</string>
+    <string name="ignore_button_text">Ignore</string>
+<!--    <string name="save_result">Save Result</string>-->
+<!--    <string name="ignore_result">Ignore</string>-->
+    <string name="menu_change_questions">Change Questions</string>
+    <string name="menu_average">Get The average</string>
+    <string name="menu_reset">Reset the saved results</string>
+    <string name="menu_change_language">Change Language</string>
+    <string name="action_select_questions">Select Questions</string>
+
+    <string name="action_num_questions">Number of Questions</string>
+    <string name="num_questions_3">3 Questions</string>
+    <string name="num_questions_5">5 Questions</string>
+    <string name="num_questions_10">10 Questions</string>
+
+
+
+</resources>
